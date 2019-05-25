@@ -1,0 +1,17 @@
+body{
+    font-style: italic;
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}
+
+.mainText{
+    font-size: 100px;
+}
+
+#clock{
+    font-weight: 500;
+    font-size: 100px;
+}
+
+
